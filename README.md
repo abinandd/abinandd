@@ -18,10 +18,6 @@ I enjoy breaking problems down step by step and improving code quality through i
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,react,next,node,spring,express,mysql,mongodb,aws,linux,git,github,html,css&perline=15" />
 </p>
 
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,react,next,node,spring,express,mysql,mongodb,aws,linux,git,github,html,css&perline=6" />
-</p>
