@@ -13,7 +13,7 @@ Developer focused on building strong fundamentals and scalable software.
 * Interested in writing **clean, maintainable, and scalable code**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,mongodb,express,reactnext,spring,next,mysql,aws,linux,git" />
+  <img src="https://skillicons.dev/icons?i=java,js,mongodb,express,react,next,spring,mysql,aws,linux,git" />
 </p>
 
 I believe that **strong fundamentals lead to better software systems**.
