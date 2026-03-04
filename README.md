@@ -4,8 +4,6 @@
 Developer focused on building strong fundamentals and scalable software.
 </p>
 
----
-
 ## About Me
 
 * Developer focused on **Core Java and problem solving**
@@ -14,15 +12,9 @@ Developer focused on building strong fundamentals and scalable software.
 * Use **Git & GitHub** for version control and collaboration
 * Interested in writing **clean, maintainable, and scalable code**
 
----
-
-## Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,ts,react,next,spring,express,mysql,mongodb,aws,linux,git,github,html,css" />
 </p>
-
----
 
 I believe that **strong fundamentals lead to better software systems**.
 My focus is on:
@@ -31,6 +23,3 @@ My focus is on:
 * Understanding core concepts deeply
 * Building scalable architectures
 * Continuous learning and improvement
-
----
-
