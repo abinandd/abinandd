@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
-
 <h1 align="center">Abhinand C M</h1>
 
 <p align="center">
@@ -36,6 +34,3 @@ My focus is on:
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
