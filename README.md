@@ -16,10 +16,9 @@ Developer focused on building strong fundamentals and scalable software.
   <img src="https://skillicons.dev/icons?i=java,js,mongodb,express,react,next,spring,mysql,aws,linux,git" />
 </p>
 
-I believe that **strong fundamentals lead to better software systems**.
-My focus is on:
+I believe strong fundamentals lead to better software systems, so I focus on:
 
 * Writing clear and maintainable code
 * Understanding core concepts deeply
 * Building scalable architectures
-* Continuous learning and improvement
+* Continuously improving through learning and practice
