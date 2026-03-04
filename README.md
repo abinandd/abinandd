@@ -19,7 +19,7 @@ Developer focused on building strong fundamentals and scalable software.
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,react,next,node,spring,express,mysql,mongodb,aws,linux,git,github,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,react,next,spring,express,mysql,mongodb,aws,linux,git,github,html,css" />
 </p>
 
 ---
